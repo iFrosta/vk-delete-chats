@@ -1,5 +1,5 @@
-# Youtube Automation
-Mady by @ifrosta [GitHub](https://github.com/iFrosta) [Website](https://ifrosta.com)
+# Vk Automation
+Made by @ifrosta [GitHub](https://github.com/iFrosta) [Website](https://ifrosta.com)
 
 ## Instruction:
 1. Open your vk.com/im
